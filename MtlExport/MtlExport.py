@@ -35,7 +35,6 @@ def process_mtl():
     status_label.config(text="Materials extracted successfully!")
     status_label.configure(bg='black', fg='')
 
-# GUI oluşturma
 root = tk.Tk()
 root.title("MtlExport")
 root.iconbitmap("mtlexport.ico")
