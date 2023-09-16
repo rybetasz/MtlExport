@@ -1,0 +1,16 @@
+C:\Users\carme\source\repos\MtlExport\MtlExport\bin\Release\MtlExport.exe.config
+C:\Users\carme\source\repos\MtlExport\MtlExport\bin\Release\MtlExport.exe
+C:\Users\carme\source\repos\MtlExport\MtlExport\bin\Release\MtlExport.pdb
+C:\Users\carme\source\repos\MtlExport\MtlExport\obj\Release\MtlExport.csproj.AssemblyReference.cache
+C:\Users\carme\source\repos\MtlExport\MtlExport\obj\Release\MtlExport.csproj.SuggestedBindingRedirects.cache
+C:\Users\carme\source\repos\MtlExport\MtlExport\obj\Release\MainWindow.g.cs
+C:\Users\carme\source\repos\MtlExport\MtlExport\obj\Release\App.g.cs
+C:\Users\carme\source\repos\MtlExport\MtlExport\obj\Release\MtlExport_MarkupCompile.cache
+C:\Users\carme\source\repos\MtlExport\MtlExport\obj\Release\MtlExport_MarkupCompile.lref
+C:\Users\carme\source\repos\MtlExport\MtlExport\obj\Release\MainWindow.baml
+C:\Users\carme\source\repos\MtlExport\MtlExport\obj\Release\MtlExport.g.resources
+C:\Users\carme\source\repos\MtlExport\MtlExport\obj\Release\MtlExport.Properties.Resources.resources
+C:\Users\carme\source\repos\MtlExport\MtlExport\obj\Release\MtlExport.csproj.GenerateResource.cache
+C:\Users\carme\source\repos\MtlExport\MtlExport\obj\Release\MtlExport.csproj.CoreCompileInputs.cache
+C:\Users\carme\source\repos\MtlExport\MtlExport\obj\Release\MtlExport.exe
+C:\Users\carme\source\repos\MtlExport\MtlExport\obj\Release\MtlExport.pdb
